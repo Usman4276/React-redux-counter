@@ -1,0 +1,28 @@
+.container{
+  background-color:purple;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  color:white;
+}
+
+.btn1{
+  color:black;
+  font-size:20px;
+  margin-right: .1rem;
+}
+.btn2{
+  color:black;
+  width: 1.8rem;
+  font-size:20px;
+}
+.counter{
+  margin-bottom: 1.5rem;
+}
+.title{
+  position:relative;
+  top: -9rem;
+  font-size:2rem;
+}
