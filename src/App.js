@@ -14,7 +14,7 @@ function App() {
   //   console.log(store.getState())
   // })
 
-  // Calling dispatch
+  // Calling dispatch function
   const dispatch =useDispatch();
 
   return (
